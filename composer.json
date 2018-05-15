@@ -2,7 +2,7 @@
     "name": "cuizhaopeng/alidayu",
     "description": "kkk",
     "license": "MIT",
-    "version": "^1.0",
+    "version": "1.0-dev",
     "minimum-stability": "dev",
     "authors": [
         {
@@ -12,7 +12,7 @@
     ],
     "require": {
         "php": ">=5.3.0",
-        "cuizhaopeng/alidayu": "^1.0"
+        "cuizhaopeng/alidayu": "1.0-dev"
     },
     "autoload": {
         "psr-0": {
