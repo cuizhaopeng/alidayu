@@ -10,6 +10,7 @@
         }
     ],
     "require": {
+        "cuizhaopeng/alidayu": "dev-master",
         "php": ">=5.3.0"
     },
     "autoload": {
